@@ -15,8 +15,6 @@
 * Python 3.11
 * Git
 * IDE (VS Code / PyCharm)
-* Jupyter Lab
-* nbgrader
 
 ---
 
@@ -91,10 +89,10 @@ brew install python3.12
     ```
 4. Настроить соединение с GitHub по SSH
 5. Перейти по ссылке, принять разрешения для бота GitHub Classroom и принять задание. Для каждой группы своя ссылка:
-    * [K0109-23-1]()
-    * [K0109-23-2]()
-    * [K0609-23-1]()
-    * [K0609-23-2]()
+    * [K0109-23-1](https://classroom.github.com/a/uh-LOHfD)
+    * [K0109-23-2](https://classroom.github.com/a/l-9MtuiT)
+    * [K0609-23-1](https://classroom.github.com/a/4w4D9Fc0)
+    * [K0609-23-2](https://classroom.github.com/a/mdR8V2XK)
 6. Созданный для задания репозиторий клонировать на свою локальную машину. **Репозиторий создается уникальный для каждого студента!**
 
     Адрес можно найти нажав кнопку `Code` на странице репозитория
