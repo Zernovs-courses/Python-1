@@ -101,7 +101,7 @@ brew install python3.12
     ```console
     git clone [SSH-адрес]
     ```
-7. Открыть локальный репозиторий в IDE (VS Code или Jupyter) и выполнить задание в файле.
+7. Открыть локальный репозиторий в IDE (VS Code или PyCharm) и выполнить задание в файле.
 8. Создать коммит и за-push-ить свое решение на GitHub
     ```console
     git commit -m "[сообщение с описанием]"
