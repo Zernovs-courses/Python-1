@@ -21,3 +21,4 @@
 
 ### Ссылки на задания (будут добавляться постепенно):
 1. [Задание 1](https://classroom.github.com/a/mdR8V2XK)
+2. [Задание 2](https://classroom.github.com/a/3ttXX5-G)
