@@ -6,11 +6,13 @@
 
 ### Ссылки на задания (будут добавляться постепенно):
 1. [Задание 1](https://classroom.github.com/a/uh-LOHfD)
+2. [Задание 2](https://github.com/Zernovs-courses/Python-1-2)
 
 ## К0109-23-2
 
 ### Ссылки на задания (будут добавляться постепенно):
 1. [Задание 1](https://classroom.github.com/a/l-9MtuiT)
+2. [Задание 2](https://github.com/Zernovs-courses/Python-1-2)
 
 ## К0609-23-1
 
