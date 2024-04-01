@@ -32,6 +32,7 @@
 5. [Задание 5](https://classroom.github.com/a/GULcLvhW)
 6. [Задание 6](https://classroom.github.com/a/bE7QQcKa)
 7. [Задание 7](https://classroom.github.com/a/XvxgLBRx)
+8. [Задание 8](https://classroom.github.com/a/oM7lyCXO)
 
 ## К0609-23-2
 
