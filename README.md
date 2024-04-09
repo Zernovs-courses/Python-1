@@ -43,6 +43,7 @@
 7. [Задание 7. Строки](https://classroom.github.com/a/XvxgLBRx)
 8. [Задание 8. Списки](https://classroom.github.com/a/oM7lyCXO)
 9. [Задание 9. Функции](https://classroom.github.com/a/6XqULawD)
+10. [Задание 10. Множества](https://classroom.github.com/a/EU28u2XF)
 
 ## К0609-23-2
 
