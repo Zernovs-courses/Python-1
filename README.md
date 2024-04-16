@@ -15,6 +15,8 @@
 7. [Задание 7. Строки](https://classroom.github.com/a/NrZB11qW)
 8. [Задание 8. Списки](https://classroom.github.com/a/uQPTQvnj)
 9. [Задание 9. Функции](https://classroom.github.com/a/M1uQfsM_)
+10. [Задание 10. Множества](https://classroom.github.com/a/BSK52Gbd)
+11. [Задание 11. Словари](https://classroom.github.com/a/7GblMSEX)
 
 ## К0109-23-2
 
@@ -29,6 +31,8 @@
 7. [Задание 7. Строки](https://classroom.github.com/a/GUg1df_w)
 8. [Задание 8. Списки](https://classroom.github.com/a/04NfT8v6)
 9. [Задание 9. Функции](https://classroom.github.com/a/H8N2HoWy)
+10. [Задание 10. Множества](https://classroom.github.com/a/tOkGIv_T)
+11. [Задание 11. Словари](https://classroom.github.com/a/pgk9hLus)
 
 ## К0609-23-1
 
@@ -59,3 +63,5 @@
 7. [Задание 7. Строки](https://classroom.github.com/a/6bou-w4R)
 8. [Задание 8. Списки](https://classroom.github.com/a/P2yNWAAg)
 9. [Задание 9. Функции](https://classroom.github.com/a/R8YZtFxl)
+10. [Задание 10. Множества](https://classroom.github.com/a/C0FcNEXR)
+11. [Задание 11. Словари](https://classroom.github.com/a/uY9-71SB)
